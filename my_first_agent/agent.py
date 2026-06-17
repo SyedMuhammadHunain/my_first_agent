@@ -1,7 +1,7 @@
 from google.adk.agents.llm_agent import Agent
 
 root_agent = Agent(
-    model='gemini-3.1-pro-preview',
+    model='gemini-2.5-flash',
     name='personal_assistant',
     description='A highly efficient executive assistant that manages workflows, analyzes data, and executes terminal tasks.',
     
