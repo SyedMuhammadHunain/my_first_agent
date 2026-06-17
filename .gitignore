@@ -1,0 +1,16 @@
+# Environment files
+.env
+my_first_agent/.env
+.env.*
+
+# Virtual environment
+.adk_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.vscode/
