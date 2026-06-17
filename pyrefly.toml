@@ -1,0 +1,6 @@
+[default] // a pyrefly is a python syntax checker.
+python_version = "3.14"
+search_path = [
+    ".",
+    ".adk_env/lib/python3.14/site-packages", // search in virtual environment
+]
